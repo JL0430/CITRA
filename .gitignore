@@ -1,0 +1,6 @@
+# Python 常规忽略项
+__pycache__/
+*.pyc
+.venv/
+venv/
+.idea/

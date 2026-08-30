@@ -1,0 +1,21 @@
+group,term,stability
+high_c,small molecule metabolic process,1.0
+high_c,metabolic process,1.0
+high_c,carboxylic acid metabolic process,1.0
+high_c,primary metabolic process,1.0
+high_c,oxoacid metabolic process,1.0
+high_c,organic acid metabolic process,1.0
+high_c,amino acid metabolic process,1.0
+high_c,biosynthetic process,1.0
+high_c,nucleoside phosphate metabolic process,1.0
+high_c,nucleobase-containing small molecule metabolic process,1.0
+low_c,metabolic process,1.0
+low_c,primary metabolic process,1.0
+low_c,small molecule metabolic process,1.0
+low_c,biosynthetic process,1.0
+low_c,catabolic process,1.0
+low_c,carboxylic acid metabolic process,1.0
+low_c,organic acid metabolic process,1.0
+low_c,oxoacid metabolic process,1.0
+low_c,macromolecule metabolic process,1.0
+low_c,protein metabolic process,1.0

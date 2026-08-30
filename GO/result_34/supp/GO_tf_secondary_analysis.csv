@@ -1,0 +1,35 @@
+gene,cross_weight_c,iaa_mean_sens,tf_go_terms
+YBR150C,0.24888788,0.33607125,"DNA-binding transcription factor activity, RNA polymerase II-specific; DNA-binding transcription factor activity; transcription regulator activity"
+YKR099W,0.32092762,0.39866483,"DNA-binding transcription factor activity, RNA polymerase II-specific; DNA-binding transcription factor activity; transcription regulator activity"
+YLR266C,0.3482242,0.36197445,"DNA-binding transcription factor activity, RNA polymerase II-specific; DNA-binding transcription factor activity; transcription regulator activity"
+YMR263W,0.38714826,0.29813513,transcription regulator activity
+YOR038C,0.4130545,0.26949167,transcription regulator activity
+YHL009C,0.42647666,0.13616727,"DNA-binding transcription factor activity, RNA polymerase II-specific; DNA-binding transcription factor activity; transcription regulator activity; DNA-binding transcription activator activity, RNA polymerase II-specific"
+YDR423C,0.45156708,0.2745014,"DNA-binding transcription factor activity, RNA polymerase II-specific; DNA-binding transcription factor activity; transcription regulator activity; DNA-binding transcription activator activity, RNA polymerase II-specific"
+YGL096W,0.4630361,0.5669588,"DNA-binding transcription factor activity, RNA polymerase II-specific; DNA-binding transcription factor activity; transcription regulator activity; DNA-binding transcription repressor activity, RNA polymerase II-specific"
+YGL237C,0.49727225,0.22506541,"DNA-binding transcription factor activity, RNA polymerase II-specific; DNA-binding transcription factor activity; transcription regulator activity; DNA-binding transcription activator activity, RNA polymerase II-specific"
+YDR207C,0.50097287,0.20086841,"DNA-binding transcription factor activity, RNA polymerase II-specific; DNA-binding transcription factor activity; transcription regulator activity; DNA-binding transcription repressor activity, RNA polymerase II-specific"
+YNL023C,0.5061504,0.2867196,"DNA-binding transcription factor activity, RNA polymerase II-specific; DNA-binding transcription factor activity; transcription regulator activity"
+YLR053C,0.5323635,0.5479165,transcription regulator activity
+YGL073W,0.541729,0.25032473,DNA-binding transcription factor activity; transcription regulator activity
+YER159C,0.54608834,0.1862197,transcription regulator activity
+YLR014C,0.5476691,0.3498078,"DNA-binding transcription factor activity, RNA polymerase II-specific; DNA-binding transcription factor activity; transcription regulator activity"
+YHL027W,0.55436623,0.2447756,"DNA-binding transcription factor activity, RNA polymerase II-specific; DNA-binding transcription factor activity; transcription regulator activity; DNA-binding transcription repressor activity, RNA polymerase II-specific"
+YDR448W,0.5597127,0.20538741,transcription regulator activity
+YMR172W,0.5659963,0.16575637,"DNA-binding transcription factor activity, RNA polymerase II-specific; DNA-binding transcription factor activity; transcription regulator activity"
+YGL013C,0.56739527,0.27237636,"DNA-binding transcription factor activity, RNA polymerase II-specific; DNA-binding transcription factor activity; transcription regulator activity; DNA-binding transcription activator activity, RNA polymerase II-specific"
+YLR010C,0.5712203,0.18351015,transcription regulator activity
+YDR397C,0.57148445,0.36195558,transcription regulator activity
+YBL066C,0.57356906,0.44674963,"DNA-binding transcription factor activity, RNA polymerase II-specific; DNA-binding transcription factor activity; transcription regulator activity"
+YBR049C,0.57678485,0.19759974,"DNA-binding transcription factor activity, RNA polymerase II-specific; DNA-binding transcription factor activity; transcription regulator activity; DNA-binding transcription activator activity, RNA polymerase II-specific"
+YOR337W,0.5821208,0.43200853,"DNA-binding transcription factor activity, RNA polymerase II-specific; DNA-binding transcription factor activity; transcription regulator activity"
+YAL051W,0.5850115,0.25406566,"DNA-binding transcription factor activity, RNA polymerase II-specific; DNA-binding transcription factor activity; transcription regulator activity; DNA-binding transcription activator activity, RNA polymerase II-specific"
+YMR037C,0.58676,0.35361987,"DNA-binding transcription factor activity, RNA polymerase II-specific; DNA-binding transcription factor activity; transcription regulator activity"
+YKL062W,0.58730656,0.7229078,"DNA-binding transcription factor activity, RNA polymerase II-specific; DNA-binding transcription factor activity; transcription regulator activity"
+YMR042W,0.5904967,0.20447014,"DNA-binding transcription factor activity, RNA polymerase II-specific; DNA-binding transcription factor activity; transcription regulator activity"
+YNL027W,0.59217536,0.24565169,"DNA-binding transcription factor activity, RNA polymerase II-specific; DNA-binding transcription factor activity; transcription regulator activity; DNA-binding transcription activator activity, RNA polymerase II-specific"
+YMR039C,0.59646225,0.19194931,transcription regulator activity
+YLR451W,0.5986469,0.35281894,"DNA-binding transcription factor activity, RNA polymerase II-specific; DNA-binding transcription factor activity; transcription regulator activity; DNA-binding transcription activator activity, RNA polymerase II-specific; DNA-binding transcription repressor activity, RNA polymerase II-specific"
+YPR022C,0.6010985,0.3202388,"DNA-binding transcription factor activity, RNA polymerase II-specific; DNA-binding transcription factor activity; transcription regulator activity"
+YPL239W,0.60301983,0.29502064,"DNA-binding transcription factor activity, RNA polymerase II-specific; DNA-binding transcription factor activity; transcription regulator activity; DNA-binding transcription activator activity, RNA polymerase II-specific"
+YKR091W,0.6090168,0.38053328,transcription regulator activity

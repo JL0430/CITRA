@@ -1,0 +1,10 @@
+Model,LM-only_mean,LM-only_std,+Activity_mean,+Activity_std,Full_mean,Full_std
+Ridge,0.6836,,0.6930,,0.8256,
+Lasso,0.6824,,0.6937,,0.8290,
+XGBoost,0.6934,,0.6998,,0.8317,
+LightGBM,0.6977,,0.7062,,0.8307,
+GatedMLP,0.6801,,0.6898,,0.8185,
+FT-Transformer,0.6083,,0.6456,,0.7426,
+Ours,0.6773,,0.6988,0.0097,0.8482,0.0051
+"FUN-PROSE (binding, steelman upper bound)",,,,,0.7897,0.0068
+"FUN-PROSE (expression, faithful to original)",,,,,0.5961,0.0188
